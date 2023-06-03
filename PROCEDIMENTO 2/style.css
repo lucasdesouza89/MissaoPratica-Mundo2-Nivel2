@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Port+Lligat+Slab&display=swap');
+        
+        #pnlCatalogo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Port Lligat Slab', serif;
+  font-size: 1.2em;
+}
+
+.card {
+  margin-top: 15px;
+  margin-left: 12px;
+}
